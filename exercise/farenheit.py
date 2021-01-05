@@ -14,4 +14,4 @@ print("화씨 ", round(result,2))
 print("화씨 {:.2f}".format(result))
 
 def sayHello(msg):
-    return f'Hello {msg}'
+    return f'Hello {msg}!'
